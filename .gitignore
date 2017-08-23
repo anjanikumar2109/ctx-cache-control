@@ -3,6 +3,7 @@
 *.log
 *.map
 *.gz
+*.idea
 
 # modules
 node_modules
